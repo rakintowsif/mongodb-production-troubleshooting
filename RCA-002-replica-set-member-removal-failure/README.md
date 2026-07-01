@@ -1,4 +1,4 @@
-# 🚨 RCA-002: Replica Set Member Removal Blocked
+# 🚨 Replica Set Member Removal Blocked
 
 ## Overview
 While removing a member from a MongoDB replica set, the reconfiguration operation failed because MongoDB blocked changes to the voting members.
